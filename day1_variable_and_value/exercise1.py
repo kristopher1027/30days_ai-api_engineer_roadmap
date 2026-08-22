@@ -27,7 +27,8 @@ print(is_student)
 ##2
 price = 30
 quantity = 40
-print(price + quantity)
+Total = (price * quantity)
+print(Total)
 
 ##3
 city = "Abuja"
