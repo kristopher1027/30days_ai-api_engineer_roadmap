@@ -4,6 +4,12 @@ while counter > 0:  # 2. Check the condition
     print(counter)  # 3. Run the code block
     counter -= 1    # 4. Change the variable (Crucial Step!)
 
+counter = 1
+
+while counter <= 10:
+    print(counter)
+    counter -= 1
+
 # exercise1: Count down from five to one.
 counter = 10
 while counter > 0:
